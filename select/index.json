@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Maybe I",
+  "base_artist": "Seven Billion Dots",
+  "createdAt": "2026-03-26T16:11:49.778671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maybe I Will, Maybe I Won't",
+      "artist": "The Young Veins",
+      "has_synced": false,
+      "path": "select/01_Maybe_I_Will,_Maybe_I_Won't_The_Young_Veins.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maybe I Can't",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/02_Maybe_I_Can't_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Maybe I Love You",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/03_Maybe_I_Love_You_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Maybe I Was Wrong",
+      "artist": "Julian Lennon",
+      "has_synced": true,
+      "path": "select/04_Maybe_I_Was_Wrong_Julian_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Maybe I",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/05_Maybe_I_Texas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Maybe I Could Hold You",
+      "artist": "The Vaccines",
+      "has_synced": true,
+      "path": "select/06_Maybe_I_Could_Hold_You_The_Vaccines.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Maybe I Love You",
+      "artist": "Lenka",
+      "has_synced": false,
+      "path": "select/07_Maybe_I_Love_You_Lenka.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maybe I Love You",
+      "artist": "Lenka",
+      "has_synced": true,
+      "path": "select/08_Maybe_I_Love_You_Lenka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(Maybe I Need You)",
+      "artist": "Miami Horror",
+      "has_synced": true,
+      "path": "select/09_(Maybe_I_Need_You)_Miami_Horror.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Maybe I Maybe You",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/10_Maybe_I_Maybe_You_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Maybe I Dreamt It",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/11_Maybe_I_Dreamt_It_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Maybe I Dreamt It (feat. Simon Goff) (Acoustic)",
+      "artist": "Katie Melua feat. Simon Goff",
+      "has_synced": true,
+      "path": "select/12_Maybe_I_Dreamt_It_(feat._Simon_Goff)_(Acoustic)_Katie_Melua_feat._Simon_Goff.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Maybe I Dreamt It (feat. Simon Goff) (Acoustic)",
+      "artist": "Katie Melua Simon Goff",
+      "has_synced": true,
+      "path": "select/13_Maybe_I_Dreamt_It_(feat._Simon_Goff)_(Acoustic)_Katie_Melua_Simon_Goff.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Maybe I Am?",
+      "artist": "Funeral for a Friend",
+      "has_synced": true,
+      "path": "select/14_Maybe_I_Am_Funeral_for_a_Friend.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Maybe I Should've Been Listening",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/15_Maybe_I_Should've_Been_Listening_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Maybe I Know",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/16_Maybe_I_Know_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Maybe I Just Don't Know",
+      "artist": "Smokie",
+      "has_synced": false,
+      "path": "select/17_Maybe_I_Just_Don't_Know_Smokie.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Maybe I Will",
+      "artist": "Rory Gallagher",
+      "has_synced": true,
+      "path": "select/18_Maybe_I_Will_Rory_Gallagher.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maybe I",
+      "artist": "Seven Billion Dots",
+      "has_synced": false,
+      "path": "select/pl_01_Maybe_I_Seven_Billion_Dots.txt"
+    }
+  ]
+}
